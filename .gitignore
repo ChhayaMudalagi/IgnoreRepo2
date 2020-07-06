@@ -2,6 +2,8 @@
 *.d
 *.xyz
 
+SecondIgnoreFile.adm
+
 # Object files
 *.o
 *.ko
